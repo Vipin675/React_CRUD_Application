@@ -1,0 +1,19 @@
+.detail__Contianer .card{
+    /* background-image: url("./profile.jpg"); */
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url("./profile.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.detail__Contianer .row{
+    overflow: auto;
+}
+.header__Container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+}
+.header__Container button{
+    margin:  .5rem;
+}

@@ -1,0 +1,21 @@
+body{
+  background: linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
+}
+.add_btn{
+  text-align: right;
+  margin: .5rem auto;
+}
+.container{
+  overflow: auto;
+}
+.register__container{
+  margin: 2rem auto;
+  padding: 3rem;
+}
+#form_btn{
+  text-align: right;
+}
+
+#navbar__Container{
+  position: sticky;
+}
